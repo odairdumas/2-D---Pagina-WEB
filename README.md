@@ -1,2 +1,4 @@
 # 2-D---Pagina-WEB
-Página da WEB contendo os alunos do 2º ano D, da disciplina de Programação do ano de 2023
+- Página da WEB do 2ºD
+- Alunos do curso de Programação 
+- Ano de 2023
